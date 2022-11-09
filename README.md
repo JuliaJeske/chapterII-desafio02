@@ -7,5 +7,5 @@
 
 ## Tecnologias 🚀
 - Typescript
-- -Javascript
+- Javascript
 
